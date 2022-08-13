@@ -14,11 +14,11 @@
 - <a href="https://archlinux.org/packages/community/x86_64/gnome-terminal">gnome-terminal</a>
 - <a href="https://archlinux.org/packages/community/x86_64/flameshot">flameshot</a>
 - <a href="https://archlinux.org/packages/community/x86_64/polybar">polybar</a> (AUR)
-- <a href="https://aur.archlinux.org/packages/picom">picom</a> (AUR)
+- <a href="https://archlinux.org/packages/community/x86_64/picom/">picom</a> (AUR)
 
 <h3>Kerakli shirftlar:</h3>
 
-- <a href="https://aur.archlinux.org/packages/ttf-font-awesome">Font Awesome </a> (AUR)
+- <a href="https://archlinux.org/packages/community/any/ttf-font-awesome/">Font Awesome </a> (AUR)
 
 <h3>O'rnatish:</h3>
 
