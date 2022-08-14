@@ -13,8 +13,10 @@
 - <a href="https://archlinux.org/packages/community/x86_64/rofi">rofi</a>
 - <a href="https://archlinux.org/packages/community/x86_64/gnome-terminal">gnome-terminal</a>
 - <a href="https://archlinux.org/packages/community/x86_64/flameshot">flameshot</a>
+- <a href="https://archlinux.org/packages/community/x86_64/playerctl">playerctl</a>
 - <a href="https://archlinux.org/packages/community/x86_64/polybar">polybar</a> (AUR)
-- <a href="https://archlinux.org/packages/community/x86_64/picom/">picom</a> (AUR)
+- <a href="https://archlinux.org/packages/community/x86_64/picom">picom</a> (AUR)
+- <a href="https://aur.archlinux.org/packages/spotify">spotify</a> (AUR)
 
 <h3>Kerakli shirftlar:</h3>
 
