@@ -44,3 +44,5 @@ cp picom.conf ~/.config/
 
 #
 O'rnatish davomida qandaydir muammolar yuzaga kelsa, <a href="https://t.me/aabdusattorov">telegram</a>dan yordam so'rasangiz bo'ladi.
+
+README.md <a href="https://github.com/UsmonHamidulloh">Usmon Hamidulloh</a>dan chopildi!!!
