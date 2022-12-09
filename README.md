@@ -26,7 +26,7 @@
 
 Configlarni githubdan klon qilib olamiz
 ```
-git clone https://github.com/aabb0ss/i3wm-config
+git clone https://github.com/coder-oo/i3wm-config
 ```
 Keyin configlar joylashgan jildga kiramiz
 ```
